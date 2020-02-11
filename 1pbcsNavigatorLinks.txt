@@ -1,0 +1,48 @@
+Tasks
+Dashboards
+Infolets
+Data
+Reports
+Rules
+Approvals
+Overview
+Settings
+Valid Intersections
+Data Exchange
+Jobs
+Appearance
+Variables
+Announcements
+Artifact Labels
+Access Control
+Navigation Flows
+Daily Maintenance
+Connections
+Migration
+Audit
+User Preferences
+Academy
+Access Simplified Interface
+Data Load Settings
+Data Management
+Action Menus
+Alias Tables
+Dimensions
+Forms
+Rules
+Rules Security
+Smart Lists
+Task Lists
+Currency Conversions
+Clear Cell Details
+Copy Data
+Copy Versions
+Explore Repository
+Reporting Web Studio
+Task List Report
+Application Diagnostics
+System Reports
+Manage Approvals
+Approval Unit
+Approval Unit Assignment
+Import and Export
